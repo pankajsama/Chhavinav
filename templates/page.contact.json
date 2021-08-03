@@ -1,0 +1,25 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+      }
+    },
+    "16273879478a85fec9": {
+      "type": "mycustomsection",
+      "settings": {
+        "custom_liquid": "welcone to dharna mam team"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "16273879478a85fec9"
+  ]
+}
