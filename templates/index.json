@@ -147,15 +147,55 @@
         }
       },
       "block_order": [
-        "1628061115b1144fbc-0",
-        "1628061115b1144fbc-1",
-        "1628061115b1144fbc-2"
+                "1628061115b1144fbc-0",
+                "1628061115b1144fbc-1",
+                "1628061115b1144fbc-2"
+              ],
+              "settings": {
+                "image": "shopify:\/\/shop_images\/large-group-standing-in-office.jpg",
+                "height": "adapt",
+                "color_scheme": "background-1",
+                "layout": "image_first"
+              }
+    },
+    "1628061116cc34d7a0": {
+      "type": "image-banner",
+      "blocks": {
+        "1628061116cc34d7a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "dharna banner"
+          }
+        },
+        "1628061116cc34d7a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "customers"
+          }
+        },
+        "1628061116cc34d7a0-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1628061116cc34d7a0-0",
+        "1628061116cc34d7a0-1",
+        "1628061116cc34d7a0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/large-group-standing-in-office.jpg",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/model-in-sunglasses-and-summer-clothes.jpg",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     }
   },
@@ -165,6 +205,7 @@
     "image_text",
     "16273878618e365de6",
     "162805899433a5460e",
-    "1628061115b1144fbc"
+    "1628061115b1144fbc",
+    "1628061116cc34d7a0"
   ]
 }
