@@ -86,12 +86,48 @@
       "settings": {
         "custom_liquid": "welome to chavvi sir team"
       }
+    },
+    "162805899433a5460e": {
+      "type": "image-with-text",
+      "blocks": {
+        "162805899433a5460e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "shubah preeet"
+          }
+        },
+        "162805899433a5460e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>shopify developer<\/p>"
+          }
+        },
+        "162805899433a5460e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162805899433a5460e-0",
+        "162805899433a5460e-1",
+        "162805899433a5460e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-07-27_at_9.27.25_PM.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
     "image_text",
-    "16273878618e365de6"
+    "16273878618e365de6",
+    "162805899433a5460e"
   ]
 }
